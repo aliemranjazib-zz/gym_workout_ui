@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541125758212",
+    "project_id": "gym-fitness-cany",
+    "storage_bucket": "gym-fitness-cany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541125758212:android:d5ba0ac3b25fd1e0bf9451",
+        "android_client_info": {
+          "package_name": "com.desk.feelit_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541125758212-8c37vi1subi49b763fu6p942k22oui7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwu3DxlVRQJam9sxH5dz1mCfW_N5xHK8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541125758212-8c37vi1subi49b763fu6p942k22oui7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
